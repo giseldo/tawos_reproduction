@@ -1,5 +1,8 @@
-# Para o Deep-SE executar na ordem os arquivos Deep-SE/data/run_script.py e Deep-SE/classification/exp_script.py
-# Para o TF/IDF SVM executar TFIDF-SE/run_script.py
+# Instruções
+
+Para o Deep-SE executar na ordem os arquivos Deep-SE/data/run_script.py e Deep-SE/classification/exp_script.py
+
+Para o TF/IDF SVM executar TFIDF-SE/run_script.py
 
 
 # Agile Effort Estimation: Have We Solved the Problem Yet? Insights From A Replication Study
