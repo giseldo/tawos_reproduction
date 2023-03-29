@@ -1,3 +1,7 @@
+# Para o Deep-SE executar na ordem os arquivos Deep-SE/data/run_script.py e Deep-SE/classification/exp_script.py
+# Para o TF/IDF SVM executar TFIDF-SE/run_script.py
+
+
 # Agile Effort Estimation: Have We Solved the Problem Yet? Insights From A Replication Study
 
 This repository is supplementary to the paper entitled "Agile Effort Estimation: Have We Solved the Problem Yet? Insights From A Replication Study", which is accepted for publication in the IEEE Transactions on Software Engineering Journal. The citation information will be available soon. 
