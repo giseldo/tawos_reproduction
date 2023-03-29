@@ -1,0 +1,2 @@
+mae_rguess, mean train, mean_mae, mean_mdae, mean_sa, median_train, median_mae, median_mdae, median_sa
+1.8866,3.4540,1.3524,1.4540,28.3119,3.0000,0.9570,1.0000,49.2736
